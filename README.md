@@ -1,2 +1,1 @@
-# simple-interest-calculator
-project ibm course
+# coding-project-template
